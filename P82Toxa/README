@@ -1,0 +1,6 @@
+# PICO-8 SFX to GB Studio 3.1
+This plugin takes a PICO-8 sound effect clipboard string and translates it to the GB Studio 3.1 sound driver.
+
+WARNING:
+	This plugin does **ONLY**  support the main data of a sound effect, none of the special filters or loop values.
+	The speed value also should be between 1 and 7.
